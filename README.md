@@ -189,7 +189,7 @@
 
 ### Скриншот 1. Главный экран Make.com после регистрации
 
-![Главный экран Make.com](img/1.png)
+![Главный экран Make.com](https://raw.githubusercontent.com/mariiasheveleva/updif/main/1.png)
 
 *На скриншоте видна главная страница Make.com с кнопкой "Create a new scenario" для создания нового сценария.*
 
@@ -202,7 +202,7 @@
 
 ### Скриншот 2. Пустой редактор сценариев
 
-![Пустой редактор Make.com](img/screen_2_blank.png)
+![Пустой редактор Make.com](https://raw.githubusercontent.com/mariiasheveleva/updif/main/2.png)
 
 *На скриншоте показан пустой редактор Make.com с надписью "Click to add a module" (нажмите, чтобы добавить модуль).*
 
@@ -217,7 +217,7 @@
 
 ### Скриншот 3. Выбор модуля Tools
 
-![Выбор модуля Tools](img/screen_3_tools.png)
+![Выбор модуля Tools](https://raw.githubusercontent.com/mariiasheveleva/updif/main/3.png)
 
 *На скриншоте показано окно выбора модуля, где выделен Tools и действие text functions.*
 
@@ -233,7 +233,7 @@
 
 ### Скриншот 4. Настройка функции upperCase
 
-![Настройка функции upperCase](img/screen_4_uppercase.png)
+![Настройка функции upperCase](https://raw.githubusercontent.com/mariiasheveleva/updif/main/4.png)
 
 *На скриншоте видно окно настроек модуля Tools: в поле Function выбрано "upperCase", в поле Text введено "привет мир".*
 
@@ -247,7 +247,7 @@
 
 ### Скриншот 5. Результат выполнения
 
-![Результат выполнения Make.com](img/screen_5_result.png)
+![Результат выполнения Make.com](https://raw.githubusercontent.com/mariiasheveleva/updif/main/5.png)
 
 *На скриншоте показан выполненный модуль Tools. Внизу виден результат выполнения: текст "ПРИВЕТ МИР" в верхнем регистре.*
 
